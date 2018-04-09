@@ -3,9 +3,9 @@
 Debian 4.0.r9 "Etch" i386 (32-bit) and amd64 (64-bit) images for QEMU. Images are 25GiB images in QCOW2 format on which a Debian Etch 4.0.r9 system has been installed. Images contain a minimum system with only the standard system utilities installed, so there is no graphical desktop environment (although you can always add one if you'd like i.e. Gnome, KDE, etc).
 
 ## Downloads
-32-bit: 
+32-bit: https://drive.google.com/open?id=1zvHG5ftB_14cxPllhkKg-Kdqo4Rdl8Rc
 
-64-bit: 
+64-bit: https://drive.google.com/open?id=1gqjxuU2zmN2rsZryd9SEjPsP9uqH9JN1
 
 Un-compress the .7z files to retrieve the .qcow2 images
 
